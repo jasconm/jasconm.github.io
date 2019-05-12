@@ -3,7 +3,7 @@ google_analytics: 'UA-140034534-1'
 disqus_shortname: 'jasconm'
 url: 'https://jasconm.github.io/'
 baseurl: 'https://jasconm.github.io'
-#enforce_ssl: jasconm.github.io
+enforce_ssl: jasconm.github.io
 
 title: Jascon Mortons Blog
 description: 'Topics on Powershell, Automation, AWS, Azure, VMware and others. UK based'

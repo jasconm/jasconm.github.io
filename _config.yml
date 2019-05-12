@@ -1,0 +1,44 @@
+# Site settings
+google_analytics: 'UA-140034534-1'
+disqus_shortname: 'jasconm'
+url: 'https://jasconm.github.io/'
+baseurl: 'https://jasconm.github.io'
+#enforce_ssl: jasconm.github.io
+
+title: Jascon Mortons Blog
+description: 'Topics on Powershell, Automation, AWS, Azure, VMware and others. UK based'
+author:
+  name: 'Jascon Morton'
+  email: jasconm@gmail.com
+  twitter_username: jasconm
+  github_username:  jasconm
+  linkedin_username:  jascon
+  #facebook_username: na
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 6
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate','jekyll-gist']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png','testrun.cmd']

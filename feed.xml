@@ -5,8 +5,8 @@
     <description>Topics on Powershell, Automation, AWS, Azure, VMware and others. UK based</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 May 2019 17:08:51 +0100</pubDate>
-    <lastBuildDate>Sun, 12 May 2019 17:08:51 +0100</lastBuildDate>
+    <pubDate>Sun, 12 May 2019 18:02:18 +0100</pubDate>
+    <lastBuildDate>Sun, 12 May 2019 18:02:18 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,9 +14,9 @@
         <description>&lt;p&gt;This blog is built on &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; using the &lt;a href=&quot;https://github.com/joshgerdes/jekyll-uno&quot;&gt;jekyll-uno&lt;/a&gt; theme. Click through if you want to learn more about them.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 08 Jan 2016 15:04:23 +0000</pubDate>
-        <link>http://localhost:4000/2016/getting-started/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/getting-started/</guid>
+        <pubDate>Sun, 12 May 2019 16:04:23 +0100</pubDate>
+        <link>http://localhost:4000/2019/getting-started/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/getting-started/</guid>
         
         <category>blog</category>
         
